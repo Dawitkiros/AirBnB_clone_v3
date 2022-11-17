@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Dawit Kiros Redie
-Selemon Matiyas Metselo
+# Dawit Kiros Redie
+# Selemon Matiyas Metselo
 
 ## License
 Public Domain. No copy write protection. 
